@@ -1,0 +1,27 @@
+You threw R
+Computer throws R
+ Its a draw!You threw S
+Computer throws P
+ You win!You threw R
+Computer throws R
+ Its a draw!You threw S
+Computer throws R
+ Computer wins!You threw P
+Computer throws S
+ You win!You threw S
+Computer throws S
+ Its a draw!You threw P
+Computer throws R
+ You win!You threw S
+Computer throws R
+ Computer wins!You threw S
+Computer throws R
+ Computer wins!You threw R
+Computer throws P
+ Computer wins!You threw S
+Computer throws S
+ Its a draw!You threw S
+Computer throws P
+ You win!You threw S
+Computer throws P
+ You win!
